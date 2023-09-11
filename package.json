@@ -1,0 +1,32 @@
+{
+  "name": "p32929_noddejs_boilerplate",
+  "version": "1.0.0",
+  "homepage": "https://github.com/p32929/NodeJS_Express_MongoDB_OAuth2_Boilerplate",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon bin/www"
+  },
+  "author": "p32929",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.25",
+    "mongoose-autopopulate": "^0.12.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4",
+    "passport": "^0.4.1",
+    "passport-http": "^0.3.0",
+    "passport-jwt": "^4.0.0",
+    "path": "^0.12.7",
+    "pug": "^3.0.0",
+    "winston": "^3.3.3"
+  }
+}
